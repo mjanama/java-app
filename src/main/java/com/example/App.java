@@ -24,6 +24,7 @@ public class App {
             log.info("Just logging stuff");
             
             log.info("made some changes");
+            log.info("made some changes again");
 
             throw new NullPointerException("Ooh noes! Something bad happened");
         }
